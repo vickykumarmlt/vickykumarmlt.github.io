@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+<div align="center">
 
-You can use the [editor on GitHub](https://github.com/vickykumarmlt/vickykumarmlt.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<h1>Personal Portfolio Website - v0.1.0</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2>
+  <a href="https://thepranaygupta.github.io/">thepranaygupta.github.io</a>
+</h2>
 
-### Markdown
+<div align="center">
+  <img alt="Mockup" src="https://user-images.githubusercontent.com/64855541/148080556-ec9d5062-1092-4bd4-ba12-82a153e32985.png" />
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br/>
 
-```markdown
-Syntax highlighted code block
+<a href="https://github.com/thepranaygupta/thepranaygupta.github.io"><img src="https://sloc.xyz/github/thepranaygupta/thepranaygupta.github.io" alt="Total lines"></a>
+<a href="https://github.com/thepranaygupta/thepranaygupta.github.io"><img src="https://visitor-badge.laobi.icu/badge?page_id=thepranaygupta/thepranaygupta.github.io" alt="Number of Visitors"></a>
+<a href="https://github.com/thepranaygupta/thepranaygupta.github.io/stargazers"><img src="https://img.shields.io/github/stars/thepranaygupta/thepranaygupta.github.io" alt="github stars"></a>
+<a href="https://github.com/thepranaygupta/thepranaygupta.github.io/network/members"><img src="https://img.shields.io/github/forks/thepranaygupta/thepranaygupta.github.io" alt="github forks"></a>
+<a href="https://thepranaygupta.github.io/"><img src="https://img.shields.io/badge/website-up-yellow" alt="website up"></a>
+<a href="https://www.linkedin.com/in/thepranaygupta/"><img src="https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg" alt="linkedin"></a>
 
-# Header 1
-## Header 2
-### Header 3
+</div>
 
-- Bulleted
-- List
+⭐ Star this repo on GitHub — it helps!
 
-1. Numbered
-2. List
+## Features 📋
 
-**Bold** and _Italic_ and `Code` text
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Typing animation\
+⚡️ Functional Contact Form
 
-[Link](url) and ![Image](src)
-```
+## Sections 📚
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+✔️ Home\
+✔️ About\
+✔️ Skills \
+✔️ Qualifications \
+✔️ Projects\
+✔️ Contact Me\
+✔️ Footer
 
-### Jekyll Themes
+To view a live example, **[click here](https://thepranaygupta.github.io/)**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vickykumarmlt/vickykumarmlt.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Tools Used 🛠️
 
-### Support or Contact
+- [**GitHub Pages**](https://docs.github.com/en/pages) - To host my static website (HTML, CSS, JS).
+- [**Font Awesome**](https://fontawesome.com/) - A font and icon toolkit based on CSS.
+- [**Iconscout**](https://iconscout.com/unicons) - Ready-to-use high-quality SVG icons.
+- [**Swiper.js**](https://swiperjs.com/) - JavaScript Library
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contributing 💡
+
+#### Step 1
+
+- **Option 1**
+
+  - 🍴 Fork this repo!
+
+- **Option 2**
+  - 👯 Clone this repo to your local machine.
+
+#### Step 2
+
+- **Build your code** 🔨🔨🔨
+
+#### Step 3
+
+- 🔃 Create a new pull request.
