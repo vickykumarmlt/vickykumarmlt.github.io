@@ -40,7 +40,7 @@
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://thepranaygupta.github.io/)**
+To view a live example, **[click here](https://vickykumarmlt.github.io/)**
 
 ## Tools Used 🛠️
 
